@@ -1,1 +1,1 @@
-mirror of [git.asmirnov.xyz](git.asmirnov.xyz)
+mirror of [git.asmirnov.xyz](http://git.asmirnov.xyz)
